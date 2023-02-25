@@ -1,2 +1,2 @@
 # ALtium-library
-ALtium library (By Babak Rahimic )
+ALtium library (By Babak Rahimi)
